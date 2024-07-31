@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <li>MySQL</li>
 </ul>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidChagass&showprogress=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project)](https://github.com/Caik0/Dspot-Project)
