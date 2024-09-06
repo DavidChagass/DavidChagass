@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidChagass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidChagass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  
+<img height="150" width="" align="top" href="https://github.com/Caik0/Dspot-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project&theme=dark"/>  
 </div>
 
 ###
@@ -25,6 +27,7 @@
 <div align="center">
     <img src="https://github.com/senamiguel/PeopleGen/assets/68573307/d9000909-b2d8-4270-b60f-15fb78a81cb4" width="150" height="150"/>
 </div>
+
 </div>
 
 ###
