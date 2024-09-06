@@ -1,18 +1,34 @@
-## SEJAM BEM VINDOS 👋
+<h2 align="center">Hi 👋! My name is David</h2>
 
-<h1 align="center">Hi 👋, I'm David Chagas</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidChagass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" height="30" alt="Laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<div align="center">
+    <img src="https://github.com/senamiguel/PeopleGen/assets/68573307/d9000909-b2d8-4270-b60f-15fb78a81cb4" width="150" height="150"/>
+</div>
+</div>
+
+###
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidChagass&showprogress=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project)](https://github.com/DavidChagass/Dspot-Project)
+
+###
